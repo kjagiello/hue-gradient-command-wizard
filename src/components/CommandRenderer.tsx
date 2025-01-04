@@ -37,7 +37,7 @@ function CommandRenderer({ payload }: CommandRendererProps) {
           <code>{payload}</code>
         </Box>
       </Paper>
-      <h2>HA action</h2>
+      <h2>Home Assistant action for ZHA</h2>
       <Paper>
         <Box
           p={2}
