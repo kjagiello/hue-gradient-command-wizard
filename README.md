@@ -1,7 +1,9 @@
 # A command wizard for Hue Gradient lights
 
 A simple wizard for crafting payloads for the Philips Hue-specific 'multicolor'
-command.
+command. Check it out [here](https://kjagiello.github.io/hue-gradient-command-wizard/).
+
+[![Screenshot](https://github.com/user-attachments/assets/434f1a95-4da2-4105-947c-b90877e5a135)](https://kjagiello.github.io/hue-gradient-command-wizard/)
 
 # Background
 
