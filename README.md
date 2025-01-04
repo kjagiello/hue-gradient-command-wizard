@@ -10,7 +10,8 @@ command. Check it out [here](https://kjagiello.github.io/hue-gradient-command-wi
 When used over Zigbee, you can control the gradient look and effect of the Hue
 Gradient lights by sending a special command (0x0) to the manufacturer-specific
 cluster (0xFC03). The payload for this command is cryptic, but both [deconz]
-and [z2m] communities have done an excellent job deciphering them.
+and [z2m] communities have done an excellent job deciphering them. This wizard
+is implemented based on their work.
 
 When [adding] the command support for the Hue gradients to [ZHA], I found myself wanting to experiment with the commands a bit and thus, this tools was born.
 
